@@ -1,0 +1,5 @@
+This is a simple python script to test file handling.
+File operations are important for data processing.
+Sometimes, you may encounter an error while reading files.
+Learning python makes handling such errors easier.
+
